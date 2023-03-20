@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/drawable-v24/bg.xml" value="0.1815" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/drawable/custom_button.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/drawable/ic_baseline_autorenew_24.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/drawable/nha_dat.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_chao.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_chi_tiet_nha.xml" value="0.16" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_chi_tiet_nha_dat.xml" value="0.72" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_dang_ky.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_dang_nhap.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_doi_mat_khau.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_don_hang_chi_tiet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_menunguoidung.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/activity_sua_chi_tiet_nha_dat.xml" value="0.4425339366515837" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/app_bar_nguoidung.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/content_menunguoidung.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/dialog_chon.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/dialog_chon_nhieu_hinh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/dialog_hienthi_hinh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/dialog_sua_don_hang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/dialog_sua_nha_dat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/dialog_suadonhang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/dialog_them_nha_dat.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/item_hinh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/item_photo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_doi_mat_khau.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_item_donhang.xml" value="0.536" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_item_nhadat.xml" value="0.6" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_list_don_hang_nguoi_dung.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_list_donhang.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_list_donhangGiaoDichThanhCong.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_list_hienthinhadat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_list_nhadat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_list_thanhvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_nhadat.xml" value="0.536" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_spinner_tinhthanh.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_thong_tin_ca_nhan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_thongke_top10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/layout_xem_list_nhadat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/nav_header_main.xml" value="0.6" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/tablayout_donhang_giaodich.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/thongkedoanhthu_fragment.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/layout/thongketop10_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/menu/activity_menunguoidung_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/menu/bottom_menu.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/Desktop/DuAn1/app/src/main/res/menu/main.xml" value="0.264" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_chao.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_chi_tiet_nha_dat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_dang_ky.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_dang_nhap.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_main.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_menunguoidung.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_sua_chi_tiet_nha_dat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/item_thanhvien.xml" value="0.4" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/layout_item_donhang.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/layout_item_nhadat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nguyen Van Tai/Documents/GitHub/DuAn1/app/src/main/res/layout/layout_list_thanhvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dflyh/Documents/GitHub/DuAn1/app/src/main/res/drawable/custem_edittext.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/dflyh/Documents/GitHub/DuAn1/app/src/main/res/drawable/gradient.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/dflyh/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_dang_ky.xml" value="0.1" />
+        <entry key="..\:/Users/dflyh/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_dang_nhap.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/dflyh/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_doi_mat_khau.xml" value="0.176" />
+        <entry key="..\:/Users/dflyh/Documents/GitHub/DuAn1/app/src/main/res/layout/activity_sua_chi_tiet_nha_dat.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

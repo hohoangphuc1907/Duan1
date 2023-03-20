@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_homenguoidung">
+
+    <fragment
+        android:id="@+id/nav_homenguoidung"
+        android:name="com.example.duan1_cellhome.XemNhaDatFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.duan1_cellhome.XemNhaFragment"
+        android:label="Nhà"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.duan1_cellhome.XemDatFragment"
+        android:label="Đất"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_donHangNguoiDung"
+        android:name="com.example.duan1_cellhome.DonHangNguoiDungFragment"
+        android:label="Đơn Hàng" />
+    <fragment
+        android:id="@+id/nav_thongTinCaNhan"
+        android:name="com.example.duan1_cellhome.ThongTinCaNhanFragment"
+        android:label="Thông tin cá nhân"
+        tools:layout="@layout/layout_thong_tin_ca_nhan" />
+    <fragment
+        android:id="@+id/nav_doimatkhau"
+        android:name="com.example.duan1_cellhome.DoiMatKhauFragment"
+        android:label="Đổi mật khẩu" />
+    <fragment
+        android:id="@+id/nav_top10"
+        android:name="com.example.duan1_cellhome.ThongKeTop10Fragment"
+        android:label="Top 10" />
+    <fragment
+        android:id="@+id/nav_thoat"
+        android:name="com.example.duan1_cellhome.ThongKeDoanhThuFragment"
+        android:label="Doanh thu" />
+</navigation>

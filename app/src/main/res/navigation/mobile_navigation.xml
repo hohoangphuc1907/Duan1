@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.duan1_cellhome.NhaDatFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.duan1_cellhome.NhaFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.duan1_cellhome.DatFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_thanhvien"
+        android:name="com.example.duan1_cellhome.ThanhVienFragment"
+        android:label="Quản lý thành viên"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_donHang"
+        android:name="com.example.duan1_cellhome.DonHang_DonHangGiaoDichThanhCongFragment"
+        android:label="Đơn Hàng" />
+    <fragment
+        android:id="@+id/nav_top10"
+        android:name="com.example.duan1_cellhome.ThongKeTop10Fragment"
+        android:label="Top 10" />
+    <fragment
+        android:id="@+id/nav_doimatkhau"
+        android:name="com.example.duan1_cellhome.DoiMatKhauFragment"
+        android:label="Đổi mật khẩu" />
+    <fragment
+        android:id="@+id/nav_thongkedoanhthu"
+        android:name="com.example.duan1_cellhome.ThongKeDoanhThuFragment"
+        android:label="Doanh thu" />
+    <fragment
+        android:id="@+id/nav_thoat"
+        android:name="com.example.duan1_cellhome.ThongKeDoanhThuFragment"
+        android:label="Doanh thu" />
+</navigation>
